@@ -21,12 +21,10 @@ Building on the [Trillion Dollar Words](https://aclanthology.org/2023.acl-long.3
 
 ```
 DSA4265/
-├── README.md                          ← This file
-├── report.pdf                         ← Report detailing results, shortcomings and future improvements
-│
-├── Notebooks/
-│   ├── FOMC_Step1_Data_Preparation.ipynb   ← Data loading, EDA, LLM labeling
-│   └── FOMC_Step2_Training.ipynb           ← Model training & evaluation
+├── README.md                           ← This file
+├── report.pdf                          ← Report detailing results, shortcomings and future improvements
+├── FOMC_Step1_Data_Preparation.ipynb   ← Data loading, EDA, LLM labeling
+├── FOMC_Step2_Training.ipynb           ← Model training & evaluation
 │
 ├── Data/
 │   ├── train.csv                      ← Training split (1,683 sentences)
