@@ -1,7 +1,8 @@
 # Battle of BERTS - FOMC Hawkish-Dovish Stance Classification
-### DSA4265 Take-Home Assignment 1
+### DSA4265 Take-Home Assignment 1  
+this readme was kindly written using claude ai
 
----
+-----
 
 ## Project Overview
 
