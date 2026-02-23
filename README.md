@@ -33,7 +33,7 @@ DSA4265/
 │   ├── test.csv                       ← Test split (496 sentences)
 │   └── llm_labels_fomc.json           ← Claude zero-shot labels for all sentences
 │
-├── Models/
+├── Models/ [update: i'll probably put this on Huggingface instead]
 │   ├── finbert_model/                 ← Saved FinBERT fine-tuned model
 │   └── roberta_model/                 ← Saved RoBERTa fine-tuned model
 │
